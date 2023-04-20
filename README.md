@@ -1,12 +1,12 @@
 <div>
   
   <h1 align="center">
-    Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/andressalopesa/">Andressa Lopes 😃️</a>
+    Olá, Meu nome é
+    <a href="https://www.linkedin.com/in/andressalopesa/"> Andressa Lopes 😃</a>
   </h1>
   
   <p align="center">
-    Estou cursando Engenharia de Computação no IFMG - Instituto Federal de Minas Gerais, com foco em me tornar Desenvolvedora. Já estou no 3º período e procurando estágio, desde já muito obrigada pelo apoio!
+    Estou cursando Engenharia de Computação no IFMG - Instituto Federal de Minas Gerais, com foco em me tornar Desenvolvedora. Já estou no 3º período e estou procurando estágio, desde já muito obrigada pelo apoio!
   </p>
  
 </div>
