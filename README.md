@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Estou cursando Engenharia de Computação no IFMG - Instituto Federal de Minas Gerais, com foco em me tornar Desenvolvedora. Já estou no 3º período e estou procurando estágio, desde já muito obrigada pelo apoio!
+    Estou cursando Engenharia de Computação no IFMG - Instituto Federal de Minas Gerais, com foco em me tornar Desenvolvedora. Já estou no 5º período e estou procurando estágio, desde já muito obrigada pelo apoio!
   </p>
  
 </div>
