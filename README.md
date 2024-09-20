@@ -6,15 +6,16 @@
   </h1>
   
   <p align="center">
-    Estou cursando Engenharia de Computação no IFMG - Instituto Federal de Minas Gerais, com foco em me tornar Desenvolvedora. Já estou no 5º período e estou procurando estágio, desde já muito obrigada pelo apoio!
+    Estou cursando Engenharia de Computação no IFMG - Instituto Federal de Minas Gerais, no 6º período, com foco em me tornar Desenvolvedora FullStack!
   </p>
  
 </div>
 
 <div align="center">
   <a href="https://github.com/AndreessaLopes">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AndreessaLopes&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <p>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
+    </p>
   </a>
 </div>
 
