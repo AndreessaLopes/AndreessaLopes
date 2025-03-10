@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Estou cursando Engenharia de Computação no IFMG - Instituto Federal de Minas Gerais, no 6º período, com foco em me tornar Desenvolvedora FullStack!
+    Estou cursando Engenharia de Computação no IFMG - Instituto Federal de Minas Gerais, no 7º período, com foco em me tornar Desenvolvedora FullStack!
   </p>
  
 </div>
