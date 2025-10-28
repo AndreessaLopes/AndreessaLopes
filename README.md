@@ -1,41 +1,52 @@
-<div>
-  
-  <h1 align="center">
-    Olá, Meu nome é
-    <a href="https://www.linkedin.com/in/andressalopesa/"> Andressa Lopes 😃</a>
-  </h1>
-  
-  <p align="center">
-    Estou cursando Engenharia de Computação no IFMG - Instituto Federal de Minas Gerais, no 7º período, com foco em me tornar Desenvolvedora FullStack!
-  </p>
- 
-</div>
+# Olá! Eu sou a Andressa Lopes 👋
 
-<div align="center">
-  <a href="https://github.com/AndreessaLopes">
-    <p>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreessaLopes&theme=dracula&hide_border=false&&layout=compact"/>
-    </p>
-  </a>
-</div>
+### Desenvolvedora Fullstack | Estudante de Engenharia de Computação (IFMG)
 
-<div align="center" valign="top"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
-  <img align="center" alt="github" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
-  <img align="center" alt="linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-</div><br>
+Eu transformo ideias em aplicações web e mobile funcionais, focando em código limpo, performance e boas práticas. Minha paixão é atuar na intersecção entre Front-end, Back-end e Mobile, sempre buscando soluções que gerem resultados de impacto.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/andressalopesa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:andressacaroline082011@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+---
 
-<div align="center">
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
+### 💻 Minha Stack Principal (Hard Skills)
+
+Aqui estão as tecnologias que eu mais utilizo e com as quais tenho experiência prática:
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Front-end & Web** | `React`, `Next.js`, `TypeScript`, `HTML & CSS` |
+| **Back-end & APIs** | `Python`, `Nest.js`, `APIs REST`, `Django` |
+| **Mobile** | `Flutter`, `Dart` |
+| **Banco de Dados** | `PostgreSQL`, `Firebase` |
+| **Ferramentas e DevOps** | `Git`, `GitHub`, `Docker` |
+
+---
+
+### 🚀 Projetos em Destaque
+
+Meus projetos demonstram minha capacidade de desenvolver soluções Fullstack:
+
+* **WebCarros** - Plataforma Web para Anúncio de Veículos.
+    * *Stack:* React, Firebase (Back-end/BD) e TypeScript.
+    * *Foco:* Desenvolvimento de CRUD e boas práticas de componentização.
+* **Carrinho de Compras** - Demonstração de listagem de produtos com integração de API.
+    * *Stack:* React, Axios e organização modular.
+* **Pesquisa com IA Premiada**
+    * Desenvolvimento de modelo de **Inteligência Artificial (Visão Computacional)** em Python, resultando em um aplicativo premiado (1º lugar em Software/Aplicativo IFMG). Fui responsável pela organização e análise de dados e implementação de **Docker**.
+
+---
+
+### 🌟 Qualificações Adicionais
+
+* **Experiência em Organização:** Desenvolvi habilidades de organização e liderança atuando no DCE.
+* **Artigo Publicado:** Participei da FIPA (Feira de Inovação e Produção Acadêmica) com artigo publicado.
+
+---
+
+### 🌐 Conecte-se Comigo!
+
+| Plataforma | Link |
+| :--- | :--- |
+| **LinkedIn** | `https://www.linkedin.com/in/andressalopesa/` |
+| **Email** | `andressaclopesassis@gmail.com` |
+
+---
+###### *Em busca de Estágio em Desenvolvimento Fullstack.*
