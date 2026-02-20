@@ -43,6 +43,3 @@ Estou sempre aberta a novas conexões e oportunidades de estágio. Se gostou do 
 ---
 
 ###### 💡 Buscando o meu primeiro estágio para gerar impacto com a minha stack Fullstack.
-
-
-<h1>chique demais vai tomando </h1> 
